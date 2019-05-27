@@ -1,0 +1,5 @@
+this week certainly posed more significant challenges than last week 
+
+first came some issues with installing the ocr software due to failures to download and acquire certain certificates but through -apt-get update and --fix-missing I was able to overcome these issues and get the programs installed 
+
+the next and major issue that I came accross was that the R Studio program in the DHBox did not seem to work or possibly be installed and unfortunatley i got to that point of the module to late to wait for help on resovling the issue. This meant that I could not complete part of the module
