@@ -1,0 +1,1 @@
+this week went fairly well for the work on the exercises with only issues with needing to double check some of the work removing text that had been worked through and missed by the mass removals by the command line. beyond that most of the manipulation of the text went well leading to interesting results
